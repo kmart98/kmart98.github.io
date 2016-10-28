@@ -1,0 +1,14 @@
+h1{
+	color : #00ffc3 ;
+}
+
+.colors{
+	color : blue ;
+}
+
+ol{
+	border-style:solid;
+	border-color:black;
+	border-width:2px;
+	border-radius: 20px;
+}
